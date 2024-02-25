@@ -342,28 +342,10 @@
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
   },
+       
         {
             "resource": "players",
             "id": 19,
-            "country_id": 52126,
-            "firstname": "Mir",
-            "lastname": "Hamza",
-            "fullname": "Mir Hamza",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/19/19.png",
-            "dateofbirth": "1992-09-10",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": "left-arm-fast-medium",
-            "position": {
-                "resource": "positions",
-                "id": 2,
-                "name": "Bowler"
-            },
-            "updated_at": "2020-04-05T05:54:08.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 20,
             "country_id": 52126,
             "firstname": "Mohammad",
             "lastname": "Rizwan",
@@ -382,7 +364,7 @@
         },
         {
             "resource": "players",
-            "id": 21,
+            "id": 20,
             "country_id": 52126,
             "firstname": "Mohammad",
             "lastname": "Hafeez",
@@ -401,7 +383,7 @@
         },
         {
             "resource": "players",
-            "id": 22,
+            "id": 21,
             "country_id": 98,
             "firstname": "Tim",
             "lastname": "Paine",
@@ -418,28 +400,10 @@
             },
             "updated_at": "2020-02-06T04:45:12.000000Z"
         },
+       
         {
             "resource": "players",
-            "id": 23,
-            "country_id": 98,
-            "firstname": "Ashton",
-            "lastname": "Agar",
-            "fullname": "Ashton Agar",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/23/23.png",
-            "dateofbirth": "1993-10-14",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": "slow-left-arm-orthodox",
-            "position": {
-                "resource": "positions",
-                "id": 2,
-                "name": "Bowler"
-            },
-            "updated_at": "2023-03-15T07:40:57.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 24,
+            "id": 22,
             "country_id": 98,
             "firstname": "Brendan",
             "lastname": "Doggett",
@@ -458,7 +422,7 @@
         },
         {
             "resource": "players",
-            "id": 25,
+            "id": 23,
             "country_id": 98,
             "firstname": "Aaron",
             "lastname": "Finch",
@@ -477,7 +441,7 @@
         },
         {
     "resource": "players",
-    "id": 26,
+    "id": 24,
     "country_id": 4,
     "firstname": "Jason",
     "lastname": "Holder",
@@ -496,7 +460,7 @@
   },
         {
             "resource": "players",
-            "id": 27,
+            "id": 25,
             "country_id": 98,
             "firstname": "Jon",
             "lastname": "Holland",
@@ -515,7 +479,7 @@
         },
         {
             "resource": "players",
-            "id": 28,
+            "id": 26,
             "country_id": 98,
             "firstname": "Usman",
             "lastname": "Khawaja",
@@ -534,7 +498,7 @@
         },
         {
             "resource": "players",
-            "id": 29,
+            "id": 27,
             "country_id": 98,
             "firstname": "Marnus",
             "lastname": "Labuschagne",
@@ -551,28 +515,10 @@
             },
             "updated_at": "2020-12-14T18:51:00.000000Z"
         },
+       
         {
             "resource": "players",
-            "id": 30,
-            "country_id": 98,
-            "firstname": "Nathan",
-            "lastname": "Lyon",
-            "fullname": "Nathan Lyon",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/30/30.png",
-            "dateofbirth": "1987-11-20",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 2,
-                "name": "Bowler"
-            },
-            "updated_at": "2020-02-06T04:47:33.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 31,
+            "id": 28,
             "country_id": 98,
             "firstname": "Mitchell",
             "lastname": "Marsh",
@@ -591,7 +537,7 @@
         },
         {
             "resource": "players",
-            "id": 32,
+            "id": 29,
             "country_id": 98,
             "firstname": "Shaun",
             "lastname": "Marsh",
@@ -610,7 +556,7 @@
         },
         {
             "resource": "players",
-            "id": 33,
+            "id": 30,
             "country_id": 98,
             "firstname": "Michael",
             "lastname": "Neser",
@@ -629,7 +575,7 @@
         },
         {
             "resource": "players",
-            "id": 34,
+            "id": 31,
             "country_id": 98,
             "firstname": "Matt",
             "lastname": "Renshaw",
@@ -648,7 +594,7 @@
         },
         {
             "resource": "players",
-            "id": 35,
+            "id": 32,
             "country_id": 98,
             "firstname": "Peter",
             "lastname": "Siddle",
@@ -664,25 +610,6 @@
                 "name": "Bowler"
             },
             "updated_at": "2020-02-06T04:49:42.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 36,
-            "country_id": 98,
-            "firstname": "Mitchell",
-            "lastname": "Starc",
-            "fullname": "Mitchell Starc",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/36.png",
-            "dateofbirth": "1990-01-30",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": "left-arm-fast",
-            "position": {
-                "resource": "positions",
-                "id": 2,
-                "name": "Bowler"
-            },
-            "updated_at": "2020-02-06T04:50:01.000000Z"
         }
     ]
 }
