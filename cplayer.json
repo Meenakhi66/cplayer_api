@@ -77,81 +77,81 @@
             "updated_at": "2020-04-07T08:51:02.000000Z"
         },
         {
-            "resource": "players",
-            "id": 5,
-            "country_id": 52126,
-            "firstname": "Azhar",
-            "lastname": "Ali",
-            "fullname": "Azhar Ali",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/5/5.png",
-            "dateofbirth": "1985-02-19",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "legbreak",
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-04-01T02:28:23.000000Z"
-        },
+    "resource": "players",
+    "id": 5,
+    "country_id": 52126,
+    "firstname": "Rohit",
+    "lastname": "Sharma",
+    "fullname": "Rohit Sharma",
+    "image_path": "https://cricclubs.com/documentsRep/profilePics/4118d79b-bc0a-4a5b-aa2f-9a5b591dddf4.png",
+    "dateofbirth": "1987-04-30",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
         {
-            "resource": "players",
-            "id": 6,
-            "country_id": 52126,
-            "firstname": "Fakhar",
-            "lastname": "Zaman",
-            "fullname": "Fakhar Zaman",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/6/6.png",
-            "dateofbirth": "1990-04-10",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": "slow-left-arm-orthodox",
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-04-02T02:22:22.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 7,
-            "country_id": 52126,
-            "firstname": "Imam",
-            "lastname": "ul Haq",
-            "fullname": "Imam ul Haq",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/7/7.png",
-            "dateofbirth": "1995-12-12",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": null,
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-04-02T09:00:00.000000Z"
-        },
+    "resource": "players",
+    "id": 6,
+    "country_id": 52126,
+    "firstname": "Kane",
+    "lastname": "Williamson",
+    "fullname": "Kane Williamson",
+    "image_path": "https://www.gujarattitansipl.com/static-assets/images/players/4330.png?v=4.58",
+    "dateofbirth": "1990-08-08",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
+       {
+    "resource": "players",
+    "id": 7,
+    "country_id": 52126,
+    "firstname": "Steve",
+    "lastname": "Smith",
+    "fullname": "Steve Smith",
+    "image_path": "https://bcciplayerimages.s3.ap-south-1.amazonaws.com/playerheadshot/ipl/284/271.png",
+    "dateofbirth": "1989-06-02",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "legbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
       {
-            "resource": "players",
-            "id": 8,
-            "country_id": 52126,
-            "firstname": "Babar",
-            "lastname": "Azam",
-            "fullname": "Babar Azam",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/8/8.png",
-            "dateofbirth": "1994-10-15",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-02-23T10:47:44.000000Z"
-        },
+    "resource": "players",
+    "id": 8,
+    "country_id": 52126,
+    "firstname": "Babar",
+    "lastname": "Azam",
+    "fullname": "Babar Azam",
+    "image_path": "https://cricclubs.com/documentsRep/profilePics/0e4fbbe3-3b8b-424d-af27-01c0cc71bf7e.png",
+    "dateofbirth": "1994-10-15",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm offbreak",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
         {
             "resource": "players",
             "id": 9,
