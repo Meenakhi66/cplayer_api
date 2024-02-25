@@ -152,63 +152,63 @@
     },
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },
+         {
+    "resource": "players",
+    "id": 2,
+    "country_id": 9,
+    "firstname": "Pat",
+    "lastname": "Cummins",
+    "fullname": "Pat Cummins",
+    "image_path": "https://sportsmatik.com/uploads/world-events/players/pat-cummins_1580467882.jpg",
+    "dateofbirth": "1993-05-08",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm-fast",
+    "position": {
+      "resource": "positions",
+      "id": 2,
+      "name": "Bowler"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  },
         {
-            "resource": "players",
-            "id": 9,
-            "country_id": 52126,
-            "firstname": "Asad",
-            "lastname": "Shafiq",
-            "fullname": "Asad Shafiq",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/9/9.png",
-            "dateofbirth": "1986-01-28",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-03-31T15:33:50.000000Z"
-        },
+    "resource": "players",
+    "id": 10,
+    "country_id": 3,
+    "firstname": "Rashid",
+    "lastname": "Khan",
+    "fullname": "Rashid Khan",
+    "image_path": "https://static.toiimg.com/thumb/msid-69855482,width-400,resizemode-4/69855482.jpg",
+    "dateofbirth": "1998-09-20",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm-legbreak",
+    "position": {
+      "resource": "positions",
+      "id": 2,
+      "name": "Bowler"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  },
         {
-            "resource": "players",
-            "id": 10,
-            "country_id": 52126,
-            "firstname": "Haris",
-            "lastname": "Sohail",
-            "fullname": "Haris Sohail",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/10/10.png",
-            "dateofbirth": "1989-01-09",
-            "gender": "m",
-            "battingstyle": "left-hand-bat",
-            "bowlingstyle": "slow-left-arm-orthodox",
-            "position": {
-                "resource": "positions",
-                "id": 4,
-                "name": "Allrounder"
-            },
-            "updated_at": "2020-04-02T07:30:27.000000Z"
-        },
-        {
-            "resource": "players",
-            "id": 11,
-            "country_id": 52126,
-            "firstname": "Usman",
-            "lastname": "Salahuddin",
-            "fullname": "Usman Salahuddin",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/11/11.png",
-            "dateofbirth": "1990-12-02",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": null,
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-04-08T09:10:55.000000Z"
-        },
+    "resource": "players",
+    "id": 11,
+    "country_id": 4,
+    "firstname": "Trent",
+    "lastname": "Boult",
+    "fullname": "Trent Boult",
+    "image_path": "https://i.pinimg.com/originals/be/16/ec/be16ec3b70d9180b4a58f4e4cae05f56.jpg",
+    "dateofbirth": "1989-07-22",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "left-arm-fast-medium",
+    "position": {
+      "resource": "positions",
+      "id": 2,
+      "name": "Bowler"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  },
         {
             "resource": "players",
             "id": 12,
