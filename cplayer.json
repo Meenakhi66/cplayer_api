@@ -38,44 +38,45 @@
     },
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },
-        {
+          {
     "resource": "players",
     "id": 3,
-    "country_id": 1,
-    "firstname": "Kagiso",
-    "lastname": "Rabada",
-    "fullname": "Kagiso Rabada",
-    "image_path": "https://lirp.cdn-website.com/8347f11b/dms3rep/multi/opt/KGR+Spots+-+Entertainment_Kagiso+Rabada_Hero-00016b7e-640w.png",
-    "dateofbirth": "1995-05-25",
+    "country_id": 3,
+    "firstname": "Rashid",
+    "lastname": "Khan",
+    "fullname": "Rashid Khan",
+    "image_path": "https://static.toiimg.com/thumb/msid-69855482,width-400,resizemode-4/69855482.jpg",
+    "dateofbirth": "1998-09-20",
     "gender": "m",
     "battingstyle": "right-hand-bat",
-    "bowlingstyle": "right-arm-fast",
+    "bowlingstyle": "right-arm-legbreak",
     "position": {
-        "resource": "positions",
-        "id": 2,
-        "name": "Bowler"
+      "resource": "positions",
+      "id": 2,
+      "name": "Bowler"
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
-},
+  },
         {
-            "resource": "players",
-            "id": 4,
-            "country_id": 52126,
-            "firstname": "Sarfraz",
-            "lastname": "Ahmed",
-            "fullname": "Sarfraz Ahmed",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/4.png",
-            "dateofbirth": "1987-05-22",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 3,
-                "name": "Wicketkeeper"
-            },
-            "updated_at": "2020-04-07T08:51:02.000000Z"
-        },
+    "resource": "players",
+    "id": 4,
+    "country_id": 2,
+    "firstname": "Shakib",
+    "lastname": "Al Hasan",
+    "fullname": "Shakib Al Hasan",
+    "image_path": "https://static.toiimg.com/thumb/msid-69445037,width-400,resizemode-4/69445037.jpg",
+    "dateofbirth": "1987-03-24",
+    "gender": "m",
+    "battingstyle": "left-hand-bat",
+    "bowlingstyle": "left-arm-orthodox",
+    "position": {
+      "resource": "positions",
+      "id": 3,
+      "name": "All-Rounder"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  },
+       
         {
     "resource": "players",
     "id": 5,
@@ -171,25 +172,25 @@
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
   },
-        {
+       {
     "resource": "players",
     "id": 10,
-    "country_id": 3,
-    "firstname": "Rashid",
-    "lastname": "Khan",
-    "fullname": "Rashid Khan",
-    "image_path": "https://static.toiimg.com/thumb/msid-69855482,width-400,resizemode-4/69855482.jpg",
-    "dateofbirth": "1998-09-20",
+    "country_id": 1,
+    "firstname": "Kagiso",
+    "lastname": "Rabada",
+    "fullname": "Kagiso Rabada",
+    "image_path": "https://lirp.cdn-website.com/8347f11b/dms3rep/multi/opt/KGR+Spots+-+Entertainment_Kagiso+Rabada_Hero-00016b7e-640w.png",
+    "dateofbirth": "1995-05-25",
     "gender": "m",
     "battingstyle": "right-hand-bat",
-    "bowlingstyle": "right-arm-legbreak",
+    "bowlingstyle": "right-arm-fast",
     "position": {
-      "resource": "positions",
-      "id": 2,
-      "name": "Bowler"
+        "resource": "positions",
+        "id": 2,
+        "name": "Bowler"
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
-  },
+},
         {
     "resource": "players",
     "id": 11,
@@ -197,7 +198,7 @@
     "firstname": "Trent",
     "lastname": "Boult",
     "fullname": "Trent Boult",
-    "image_path": "https://thecricketlounge.com/wp-content/uploads/2023/04/trent-boult-ipl-2023-salary-net-worth.png",
+    "image_path": "https://www.cricgram.com/wp-content/uploads/2020/11/Trent-Boult.jpg",
     "dateofbirth": "1989-07-22",
     "gender": "m",
     "battingstyle": "right-hand-bat",
@@ -247,25 +248,26 @@
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
   },
-       {
-    "resource": "players",
-    "id": 14,
-    "country_id": 2,
-    "firstname": "Shakib",
-    "lastname": "Al Hasan",
-    "fullname": "Shakib Al Hasan",
-    "image_path": "https://static.toiimg.com/thumb/msid-69445037,width-400,resizemode-4/69445037.jpg",
-    "dateofbirth": "1987-03-24",
-    "gender": "m",
-    "battingstyle": "left-hand-bat",
-    "bowlingstyle": "left-arm-orthodox",
-    "position": {
-      "resource": "positions",
-      "id": 3,
-      "name": "All-Rounder"
-    },
-    "updated_at": "2020-12-14T18:58:56.000000Z"
-  },
+         {
+            "resource": "players",
+            "id": 14,
+            "country_id": 52126,
+            "firstname": "Sarfraz",
+            "lastname": "Ahmed",
+            "fullname": "Sarfraz Ahmed",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/4.png",
+            "dateofbirth": "1987-05-22",
+            "gender": "m",
+            "battingstyle": "right-hand-bat",
+            "bowlingstyle": "right-arm-offbreak",
+            "position": {
+                "resource": "positions",
+                "id": 3,
+                "name": "Wicketkeeper"
+            },
+            "updated_at": "2020-04-07T08:51:02.000000Z"
+        },
+      
         {
             "resource": "players",
             "id": 15,
@@ -408,7 +410,7 @@
             "firstname": "Brendan",
             "lastname": "Doggett",
             "fullname": "Brendan Doggett",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/24/24.png",
+            "image_path": "https://www.homeoft20.com/wp-content/uploads/2023/08/brendan-doggett-bbl-homeoft20.jpg",
             "dateofbirth": "1994-05-03",
             "gender": "m",
             "battingstyle": "right-hand-bat",
@@ -427,7 +429,7 @@
             "firstname": "Aaron",
             "lastname": "Finch",
             "fullname": "Aaron Finch",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/25/25.png",
+            "image_path": "https://starsunfolded.com/wp-content/uploads/2016/04/Aaron-Finch.jpg",
             "dateofbirth": "1986-11-17",
             "gender": "m",
             "battingstyle": "right-hand-bat",
