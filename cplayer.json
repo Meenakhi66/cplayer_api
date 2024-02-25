@@ -39,24 +39,24 @@
     "updated_at": "2020-03-31T05:00:31.000000Z"
   },
         {
-            "resource": "players",
-            "id": 3,
-            "country_id": 52126,
-            "firstname": "Anwar",
-            "lastname": "Ali",
-            "fullname": "Anwar Ali",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/3/3.png",
-            "dateofbirth": "1987-11-25",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-fast-medium",
-            "position": {
-                "resource": "positions",
-                "id": 2,
-                "name": "Bowler"
-            },
-            "updated_at": "2020-12-14T18:58:56.000000Z"
-        },
+    "resource": "players",
+    "id": 1,
+    "country_id": 1,
+    "firstname": "Kagiso",
+    "lastname": "Rabada",
+    "fullname": "Kagiso Rabada",
+    "image_path": "https://lirp.cdn-website.com/8347f11b/dms3rep/multi/opt/KGR+Spots+-+Entertainment_Kagiso+Rabada_Hero-00016b7e-640w.png",
+    "dateofbirth": "1995-05-25",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm-fast",
+    "position": {
+        "resource": "positions",
+        "id": 2,
+        "name": "Bowler"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+},
         {
             "resource": "players",
             "id": 4,
