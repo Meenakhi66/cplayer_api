@@ -19,25 +19,25 @@
             },
             "updated_at": "2020-02-06T04:52:45.000000Z"
         },
-        {
-            "resource": "players",
-            "id": 2,
-            "country_id": 52126,
-            "firstname": "Ahmed",
-            "lastname": "Shehzad",
-            "fullname": "Ahmed Shehzad",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/2/2.png",
-            "dateofbirth": "1991-11-23",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "legbreak",
-            "position": {
-                "resource": "positions",
-                "id": 1,
-                "name": "Batsman"
-            },
-            "updated_at": "2020-03-31T05:00:31.000000Z"
-        },
+         {
+    "resource": "players",
+    "id": 1,
+    "country_id": 52126,
+    "firstname": "Virat",
+    "lastname": "Kohli",
+    "fullname": "Virat Kohli",
+    "image_path": "https://w7.pngwing.com/pngs/400/994/png-transparent-virat-kohli-thumbnail.png",
+    "dateofbirth": "1988-11-05",
+    "gender": "m",
+    "battingstyle": "right-hand-bat",
+    "bowlingstyle": "right-arm medium",
+    "position": {
+      "resource": "positions",
+      "id": 1,
+      "name": "Batsman"
+    },
+    "updated_at": "2020-03-31T05:00:31.000000Z"
+  },
         {
             "resource": "players",
             "id": 3,
