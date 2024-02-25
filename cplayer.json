@@ -154,8 +154,8 @@
   },
          {
     "resource": "players",
-    "id": 2,
-    "country_id": 9,
+    "id": 9,
+    "country_id": 2,
     "firstname": "Pat",
     "lastname": "Cummins",
     "fullname": "Pat Cummins",
