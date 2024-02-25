@@ -248,54 +248,54 @@
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
   },
-         {
+        {
             "resource": "players",
             "id": 14,
-            "country_id": 52126,
-            "firstname": "Sarfraz",
-            "lastname": "Ahmed",
-            "fullname": "Sarfraz Ahmed",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/4.png",
-            "dateofbirth": "1987-05-22",
+            "country_id": 98,
+            "firstname": "Jon",
+            "lastname": "Holland",
+            "fullname": "Jon Holland",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/27/27.png",
+            "dateofbirth": "1987-05-29",
             "gender": "m",
             "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 3,
-                "name": "Wicketkeeper"
-            },
-            "updated_at": "2020-04-07T08:51:02.000000Z"
-        },
-      
-        {
-            "resource": "players",
-            "id": 15,
-            "country_id": 52126,
-            "firstname": "Mohammad",
-            "lastname": "Abbas",
-            "fullname": "Mohammad Abbas",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/15/15.png",
-            "dateofbirth": "1990-03-10",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-fast-medium",
+            "bowlingstyle": "slow-left-arm-orthodox",
             "position": {
                 "resource": "positions",
                 "id": 2,
                 "name": "Bowler"
             },
-            "updated_at": "2020-04-05T06:16:39.000000Z"
+            "updated_at": "2020-02-06T04:46:39.000000Z"
         },
-        {
+       {
+    "resource": "players",
+    "id": 15,
+    "country_id": 3,
+    "firstname": "Ravindra",
+    "lastname": "Jadeja",
+    "fullname": "Ravindra Jadeja",
+    "image_path": "https://i.pinimg.com/originals/62/92/b0/6292b0d960f7430691d1659afffd1095.jpg",
+    "dateofbirth": "1988-12-06",
+    "gender": "m",
+    "battingstyle": "left-hand-bat",
+    "bowlingstyle": "left-arm-orthodox",
+    "position": {
+      "resource": "positions",
+      "id": 3,
+      "name": "All-Rounder"
+    },
+    "updated_at": "2020-12-14T18:58:56.000000Z"
+  },   
+      
+       {
             "resource": "players",
             "id": 16,
-            "country_id": 52126,
-            "firstname": "Hasan",
-            "lastname": "Ali",
-            "fullname": "Hasan Ali",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/16/16.png",
-            "dateofbirth": "1994-07-02",
+            "country_id": 98,
+            "firstname": "Brendan",
+            "lastname": "Doggett",
+            "fullname": "Brendan Doggett",
+            "image_path": "https://www.homeoft20.com/wp-content/uploads/2023/08/brendan-doggett-bbl-homeoft20.jpg",
+            "dateofbirth": "1994-05-03",
             "gender": "m",
             "battingstyle": "right-hand-bat",
             "bowlingstyle": "right-arm-fast-medium",
@@ -304,8 +304,9 @@
                 "id": 2,
                 "name": "Bowler"
             },
-            "updated_at": "2020-04-02T08:29:31.000000Z"
+            "updated_at": "2020-12-14T18:49:35.000000Z"
         },
+       
         {
             "resource": "players",
             "id": 17,
@@ -325,25 +326,27 @@
             },
             "updated_at": "2020-04-09T04:55:16.000000Z"
         },
+
         {
-    "resource": "players",
-    "id": 18,
-    "country_id": 3,
-    "firstname": "Ravindra",
-    "lastname": "Jadeja",
-    "fullname": "Ravindra Jadeja",
-    "image_path": "https://i.pinimg.com/originals/62/92/b0/6292b0d960f7430691d1659afffd1095.jpg",
-    "dateofbirth": "1988-12-06",
-    "gender": "m",
-    "battingstyle": "left-hand-bat",
-    "bowlingstyle": "left-arm-orthodox",
-    "position": {
-      "resource": "positions",
-      "id": 3,
-      "name": "All-Rounder"
-    },
-    "updated_at": "2020-12-14T18:58:56.000000Z"
-  },
+            "resource": "players",
+            "id": 18,
+            "country_id": 52126,
+            "firstname": "Sarfraz",
+            "lastname": "Ahmed",
+            "fullname": "Sarfraz Ahmed",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/4.png",
+            "dateofbirth": "1987-05-22",
+            "gender": "m",
+            "battingstyle": "right-hand-bat",
+            "bowlingstyle": "right-arm-offbreak",
+            "position": {
+                "resource": "positions",
+                "id": 3,
+                "name": "Wicketkeeper"
+            },
+            "updated_at": "2020-04-07T08:51:02.000000Z"
+        },
+       
        
         {
             "resource": "players",
@@ -402,16 +405,15 @@
             },
             "updated_at": "2020-02-06T04:45:12.000000Z"
         },
-       
         {
             "resource": "players",
             "id": 22,
-            "country_id": 98,
-            "firstname": "Brendan",
-            "lastname": "Doggett",
-            "fullname": "Brendan Doggett",
-            "image_path": "https://www.homeoft20.com/wp-content/uploads/2023/08/brendan-doggett-bbl-homeoft20.jpg",
-            "dateofbirth": "1994-05-03",
+            "country_id": 52126,
+            "firstname": "Hasan",
+            "lastname": "Ali",
+            "fullname": "Hasan Ali",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/16/16.png",
+            "dateofbirth": "1994-07-02",
             "gender": "m",
             "battingstyle": "right-hand-bat",
             "bowlingstyle": "right-arm-fast-medium",
@@ -420,8 +422,9 @@
                 "id": 2,
                 "name": "Bowler"
             },
-            "updated_at": "2020-12-14T18:49:35.000000Z"
+            "updated_at": "2020-04-02T08:29:31.000000Z"
         },
+        
         {
             "resource": "players",
             "id": 23,
@@ -460,25 +463,26 @@
     },
     "updated_at": "2020-12-14T18:58:56.000000Z"
   },
-        {
+         {
             "resource": "players",
             "id": 25,
-            "country_id": 98,
-            "firstname": "Jon",
-            "lastname": "Holland",
-            "fullname": "Jon Holland",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/27/27.png",
-            "dateofbirth": "1987-05-29",
+            "country_id": 52126,
+            "firstname": "Mohammad",
+            "lastname": "Abbas",
+            "fullname": "Mohammad Abbas",
+            "image_path": "https://cdn.sportmonks.com/images/cricket/players/15/15.png",
+            "dateofbirth": "1990-03-10",
             "gender": "m",
             "battingstyle": "right-hand-bat",
-            "bowlingstyle": "slow-left-arm-orthodox",
+            "bowlingstyle": "right-arm-fast-medium",
             "position": {
                 "resource": "positions",
                 "id": 2,
                 "name": "Bowler"
             },
-            "updated_at": "2020-02-06T04:46:39.000000Z"
+            "updated_at": "2020-04-05T06:16:39.000000Z"
         },
+        
         {
             "resource": "players",
             "id": 26,
