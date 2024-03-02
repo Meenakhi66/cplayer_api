@@ -327,46 +327,45 @@
             "updated_at": "2020-04-09T04:55:16.000000Z"
         },
 
-        {
-            "resource": "players",
-            "id": 18,
-            "country_id": 52126,
-            "firstname": "Sarfraz",
-            "lastname": "Ahmed",
-            "fullname": "Sarfraz Ahmed",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/4/4.png",
-            "dateofbirth": "1987-05-22",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": "right-arm-offbreak",
-            "position": {
-                "resource": "positions",
-                "id": 3,
-                "name": "Wicketkeeper"
-            },
-            "updated_at": "2020-04-07T08:51:02.000000Z"
-        },
+       {
+  "resource": "players",
+  "id": 18,
+  "country_id": 52126,
+  "firstname": "Mahendra",
+  "lastname": "Dhoni",
+  "fullname": "Mahendra Dhoni",
+  "image_path": "https://cdn.zeebiz.com/sites/default/files/2023/07/07/250024-news18-bl-zb.jpg",
+  "dateofbirth": "1981-07-07",
+  "gender": "m",
+  "battingstyle": "right-hand-bat",
+  "bowlingstyle": "right-arm medium",
+  "position": {
+    "resource": "positions",
+    "id": 3,
+    "name": "Wicketkeeper-Batsman"
+  },
+  "updated_at": "2020-03-31T05:00:31.000000Z"
+},
        
-       
-        {
-            "resource": "players",
-            "id": 19,
-            "country_id": 52126,
-            "firstname": "Mohammad",
-            "lastname": "Rizwan",
-            "fullname": "Mohammad Rizwan",
-            "image_path": "https://cdn.sportmonks.com/images/cricket/players/20/20.png",
-            "dateofbirth": "1992-01-01",
-            "gender": "m",
-            "battingstyle": "right-hand-bat",
-            "bowlingstyle": null,
-            "position": {
-                "resource": "positions",
-                "id": 3,
-                "name": "Wicketkeeper"
-            },
-            "updated_at": "2020-02-23T10:41:51.000000Z"
-        },
+       {
+  "resource": "players",
+  "id": 19,
+  "country_id": 52126,
+  "firstname": "Sachin",
+  "lastname": "Tendulkar",
+  "fullname": "Sachin Tendulkar",
+  "image_path": "https://resize.indiatvnews.com/en/resize/oldbucket/400_-/sportscricket/IndiaTvaddbc2_sachin.jpg",
+  "dateofbirth": "1973-04-24",
+  "gender": "m",
+  "battingstyle": "right-hand-bat",
+  "bowlingstyle": "right-arm offbreak",
+  "position": {
+    "resource": "positions",
+    "id": 1,
+    "name": "Batsman"
+  },
+  "updated_at": "2020-03-31T05:00:31.000000Z"
+},
         {
             "resource": "players",
             "id": 20,
